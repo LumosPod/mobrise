@@ -1184,6 +1184,28 @@ section.lazy-placeholder:after {
 .cid-s0MpPoBgLa P {
   color: #386a8e;
 }
+.cid-s20I32Q8wF {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s20I32Q8wF .title {
+  margin-bottom: 2rem;
+}
+.cid-s20I32Q8wF .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-s20I32Q8wF a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s20I32Q8wF a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s20I32Q8wF textarea.form-control {
+  min-height: 188px;
+}
 .cid-s0Mq0EDgZy {
   padding-top: 90px;
   padding-bottom: 90px;
